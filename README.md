@@ -1,1 +1,1 @@
-# -i-e-Tespit-etme
+# -Sise-Tespit-etme
